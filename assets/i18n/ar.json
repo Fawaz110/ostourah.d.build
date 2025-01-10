@@ -1,0 +1,236 @@
+{
+    "global": {
+        "EGP": "جنيه مصرى",
+        "today-selles": "مبيعات اليوم",
+        "today-orders": "طلبات اليوم",
+        "total-revenue": "صافي الربح",
+        "total-orders": "جميع الطلبات",
+        "total-sales": "جميع المبيعات",
+        "total-customers": "كل العملاء",
+        "total-products": "كل المنتجات",
+        "new-order": "طلب جديد",
+        "all-orders": "كل الطلبات",
+        "top-seller": "المنتجات الاكثر طلبا",
+        "current-order": "مطلوب حديثا",
+        "Invoice-number": "رقم الفاتورة",
+        "client-name": "اسم العميل",
+        "price": "اجمالي التكلفة",
+        "address": "العنوان",
+        "by-store":"متوفر بمتجر الأسطورة",
+        "qty": "الكمية: ",
+        "sale": "تخفيض"
+    },
+    "sale-options": {
+        "label": "نوع المنتجات",
+        "all": "الكل",
+        "only-sale": "التخفيضات",
+        "no-sale": "بدون تخفيضات"
+    },
+    "sidebar": {
+        "dashboard": "لوحة التحكم",
+        "orders": "الطلبات",
+        "bills": "الفواتير",
+        "users": "المستخدمين",
+        "clients": "العملاء",
+        "rates": "التقييمات",
+        "contacts": "طلبات التواصل",
+        "suppliers": "الموردين",
+        "employees": "الموظفين",
+        "inventory": "المخزن",
+        "reports": "تقارير",
+        "sales": "المبيعات",
+        "products": "منتجات",
+        "settings": "الاعدادات",
+        "logout": "تسجيل الخروج",
+        "help": "مساعدة",
+        "departments": "الأقسام",
+        "new-dept": "قسم جديد",
+        "logo": "الأسطورة",
+        "store": "متجر",
+        "cloths": "ملابس",
+        "shoes": "أحذية",
+        "children": "أطفال"
+    },
+    "bills": {
+        "search": "بحث عن طريق اسم العميل...",
+        "bill-number": "رقم الفاتورة",
+        "customer-num": "اسم العميل",
+        "total": "الاجمالي",
+        "date-time": "التاريخ والوقت",
+        "no-d": "لا يوجد بيانات",
+        "select-user": "اختر صفحة المستخدم"
+    },
+    "users": {
+        "emp-commit": "الموظفين المسجلين",
+        "emp": "موظف",
+        "customer": "عميل",
+        "cus-commit": "العملاء المسجلين",
+        "job": "دوره",
+        "name": "الاسم",
+        "user-commit": "المستخدمين المسجلين",
+        "add": "اضافة مستخدم او موظف"
+    },
+    "login": {
+        "phone-label": "رقم الهاتف",
+        "phone-placeholder": "أدخل رقم الهاتف...",
+        "password-label": "كلمة المرور",
+        "password-placeholder": "أدخل كلمة المرور...",
+        "login": "تسجيل الدخول",
+        "forgot-password-q": "نسيت كلمة المرور؟",
+        "reset-password": "اعادة تعيين كلمة المرور",
+        "this-field-required": "هذه الخانة مطلوبة",
+        "login-to-management": "تسجيل دخول لنظام الادارة"
+    },
+    "nav": {
+        "user": {
+            "about-account": "عن الحساب",
+            "other": "أخري",
+            "logout": "تسجيل خروج",
+            "change-password": "تغيير كلمة المرور",
+            "personal-information": "بيانات شخصية"
+        }
+    },
+    "dashboard": {
+        "sales-28-days-ago": "المبيعات خلال 28 يوم السابقة",
+        "top-selling": "الأعلي مبيعا"
+    },
+    "profile": {
+        "change-profile": "تغيير الصورة السخصية",
+        "name": {
+            "label": "الاسم",
+            "placeholder": "أدخل اسمك..."
+        },
+        "email": {
+            "label": "البريد الالكتروني",
+            "placeholder": "أدخل بريدك الالكتروني..."
+        },
+        "phone": {
+            "label": "رقم الهاتف",
+            "placeholder": "أدخل رقم هاتفك..."
+        },
+        "gender": {
+            "label": "النوع",
+            "placeholder": "أدخل النوع الخاص بك 'ذكر' أو 'أنثي'..."
+        },
+        "role": {
+            "label": "الصلاحيات والأذونات"
+        },
+        "address": {
+            "label": "عنوان",
+            "placeholder": "أدخل عنوانك 'أدخل القديم اذا كنت لا تريد تغييره'..."
+        },
+        "btn": {
+            "edit": "تعديل",
+            "cancel": "الغاء",
+            "confirm": "تأكيد"
+        }
+    },
+    "change-password": {
+        "current": {
+            "label": "كلمة المرور الحالية",
+            "placeholder": "أدخل كلمة مرورك..."
+        },
+        "new": {
+            "label": "كلمة مرور جديدة",
+            "placeholder": "أدخل كلمة مرور جديدة..."
+        },
+        "confirm": {
+            "label": "تأكيد كلمة المرور",
+            "placeholder": "تأكيد كلمة المرور..."
+        }
+    },
+    "product": {
+        "search-by-name": "بحث عن طريق اسم المنتج...",
+        "add-product": "اضافة منتج",
+        "product-name": "اسم المنتج",
+        "category": "الصنف",
+        "quantity": "الكمية",
+        "price": "السعر",
+        "discount": "خصم",
+        "available": "متاح",
+        "update": "تعديل",
+        "delete": "حذف",
+        "ordered-qty": "الكمية المطلوبة",
+        "next-page": "الصفحة التالية",
+        "prev-page": "الصفحة السابقة",
+        "brands": "العلامات التجارية",
+        "add-category": "اضافة صنف جديد",
+        "add-sub-category": "اضافة صنف فرعي",
+        "add-sub-sub-category": "اضافة صنف فرعي فرعي"
+    },
+    "form": {
+        "label": {
+            "update": "تعديل المنتج"
+        },
+        "title": {
+            "label": "اسم المنتج",
+            "placeholder": "مثال: قميص رجالي"
+        },
+        "title-en": {
+            "label": "الاسم باللغة الانجليزية",
+            "placeholder": "أدخل الاسم باللغة الانجليزية"
+        },
+        "title-ar": {
+            "label": "الاسم باللغة العربية",
+            "placeholder": "أدخل الاسم باللغة العربية"
+        },
+        "category": {
+            "label": "الصنف",
+            "placeholder": "مثال: رجالي"
+        },
+        "brand": {
+            "label": "اسم العلامة التجارية",
+            "placeholder": "أدخل اسم العلامة التجارية..."
+        },
+        "brand-image": {
+            "placeholder": "أنقر لتحديد صورة للعلامة التجارية"
+        },
+        "qty": {
+            "label": "متاح",
+            "placeholder": "مثال: 200"
+        },
+        "description": {
+            "label": "وصف المنتج ",
+            "placeholder": "مثال: المنتج مصنوع من القطن بنسبة 90%"
+        },
+        "price": {
+            "label": "السعر",
+            "placeholder": "مثال: 100"
+        },
+        "min-price": {
+            "label": "أقل سعر",
+            "placeholder": "مثال: 200"
+        },
+        "max-price": {
+            "label": "أعلي سعر",
+            "placeholder": "مثال: 200"
+        },
+        "min-rate": {
+            "label": "التقييم"
+        },
+        "discount": {
+            "label": "خصم",
+            "placeholder": "20"
+        },
+        "error": {
+            "required": "هذه الخانة مطلوبة.",
+            "uploaded": "تم تحميل الصورة."
+        },
+        "btn": {
+            "update": "تعديل المنتج",
+            "update-brand": "تعديل",
+            "cancel": "الغاء",
+            "confirm": "تأكيد",
+            "clear": "ازالة",
+            "delete": "حذف",
+            "save": "Save",
+            "submit": "تأكيد",
+            "apply-filter": "تطبيق التصفية",
+            "change-image": "أنقر لتغيير الصورة (اختياري)",
+            "export": {
+                "label": "تصدير",
+                "title": "تصدير كملف excel"
+            }
+        }
+    }
+}

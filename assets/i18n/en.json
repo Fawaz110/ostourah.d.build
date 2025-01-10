@@ -1,0 +1,236 @@
+{
+    "global": {
+        "EGP": "EGP",
+        "today-selles": "Today Selles",
+        "today-orders": "Today Orders",
+        "total-revenue": "Total Revenue",
+        "total-orders": "Total Orders",
+        "total-sales": "Total Sales",
+        "total-customers": "Total Customers",
+        "total-products": "Total Products",
+        "new-order": "New Order",
+        "all-orders": "All Orders",
+        "top-seller": "Top seller",
+        "current-order": "Current Order",
+        "Invoice-number": "Invoice Number",
+        "client-name": "Client Name",
+        "price": "Price",
+        "address": "Address",
+        "by-store": "By Al-ostourah store",
+        "qty": "Quantity: ",
+        "sale": "Sale"
+    },
+    "sale-options": {
+        "label": "Type of products",
+        "all": "All",
+        "only-sale": "Only Sale",
+        "no-sale": "Without Sale"
+    },
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "orders": "Orders",
+        "bills": "Bills",
+        "users": "Users",
+        "clients": "Clients",
+        "rates": "Rates",
+        "contacts": "Contacts",
+        "suppliers": "Suppliers",
+        "employees": "Employees",
+        "inventory": "Inventory",
+        "reports": "Reports",
+        "sales": "sales",
+        "products": "Products",
+        "settings": "settings",
+        "logout": "Logout",
+        "help": "Help",
+        "departments": "Departments",
+        "new-dept": "New Department",
+        "logo": "Al-Oustora",
+        "store": "Store",
+        "cloths": "Cloths",
+        "shoes": "Shoes",
+        "children": "Children"
+    },
+    "bills": {
+        "search": " Search for customer name",
+        "bill-number": " Bill Number",
+        "total": "Total",
+        "customer-num": " Customer Number",
+        "date-time": "Date & Time",
+        "no-d": "No data matching the filter",
+        "select-user": "Select page of users"
+    },
+    "users": {
+        "emp-commit": "Commited Employees",
+        "emp": "Employee",
+        "customer": "Customer",
+        "cus-commit": "Commited Customers",
+        "name": "Name",
+        "job": "Job",
+        "user-commit": "Commited Users",
+        "add": "Add User & Employee"
+    },
+    "login": {
+        "phone-label": "Phone number",
+        "phone-placeholder": "Enter phone number...",
+        "password-label": "Password",
+        "password-placeholder": "Enter your password...",
+        "login": "Login",
+        "forgot-password-q": "Forgot password?",
+        "reset-password": "Reset password",
+        "this-field-required": "This field is required",
+        "login-to-management": "Login to management system"
+    },
+    "nav": {
+        "user": {
+            "about-account": "About account",
+            "other": "Other",
+            "logout": "Logout",
+            "change-password": "Change password",
+            "personal-information": "Personal information"
+        }
+    },
+    "dashboard": {
+        "sales-28-days-ago": "Sales in last 28 days",
+        "top-selling": "Top selling"
+    },
+    "profile": {
+        "change-profile": "Change Profile Image",
+        "name": {
+            "label": "Name",
+            "placeholder": "Enter your name..."
+        },
+        "email": {
+            "label": "Email",
+            "placeholder": "Enter your email..."
+        },
+        "phone": {
+            "label": "Phone Number",
+            "placeholder": "Enter your phone number..."
+        },
+        "gender": {
+            "label": "Gender",
+            "placeholder": "Enter your gender 'male' or 'female'..."
+        },
+        "role": {
+            "label": "Roles"
+        },
+        "address": {
+            "label": "Address",
+            "placeholder": "Enter your address 'old one if you don't want to change it'..."
+        },
+        "btn": {
+            "edit": "Edit Profile",
+            "cancel": "Cancel",
+            "confirm": "Confirm"
+        }
+    },
+    "change-password": {
+        "current": {
+            "label": "Current password",
+            "placeholder": "Enter your current password..."
+        },
+        "new": {
+            "label": "New password",
+            "placeholder": "Enter your new password..."
+        },
+        "confirm": {
+            "label": "Password confirm",
+            "placeholder": "Confirm your password..."
+        }
+    },
+    "product": {
+        "search-by-name": "search by product name...",
+        "add-product": "Add product",
+        "product-name": "Product name",
+        "quantity": "Quantity",
+        "category": "Category",
+        "price": "Price",
+        "discount": "Discount",
+        "available": "Available",
+        "update": "Update",
+        "delete": "Delete",
+        "ordered-qty": "Ordered Quantity",
+        "next-page": "Next Page",
+        "prev-page": "Previous Page",
+        "brands": "Brands",
+        "add-category": "Add Category",
+        "add-sub-category": "Add Sub Category",
+        "add-sub-sub-category": "Add Sub Sub Category"
+    },
+    "form": {
+        "label": {
+            "update": "Update Product"
+        },
+        "title": {
+            "label": "Title",
+            "placeholder": "Ex. Pizza"
+        },
+        "title-en": {
+            "label": "Title in english",
+            "placeholder": "Ex. Pizza"
+        },
+        "title-ar": {
+            "label": "Title in arabic",
+            "placeholder": "Ex. Pizza"
+        },
+        "category": {
+            "label": "Category",
+            "placeholder": "Ex. Men"
+        },
+        "qty": {
+            "label": "Avaialable",
+            "placeholder": "Ex. 100"
+        },
+        "description": {
+            "label": "Description",
+            "placeholder": "Ex. Extra cheese stuffed"
+        },
+        "price": {
+            "label": "Price",
+            "placeholder": "Ex. 200"
+        },
+        "min-price": {
+            "label": "Minimum Price",
+            "placeholder": "Ex. 200"
+        },
+        "max-price": {
+            "label": "Maximum Price",
+            "placeholder": "Ex. 200"
+        },
+        "min-rate": {
+            "label": "Minimum rate"
+        },
+        "discount": {
+            "label": "Discount",
+            "placeholder": "20"
+        },
+        "brand": {
+            "label": "Brand name",
+            "placeholder": "Enter brand name..."
+        },
+        "brand-image": {
+            "placeholder": "Choose your brand image"
+        },
+        "error": {
+            "required": "This field is required.",
+            "uploaded": "Image file uploaded."
+        },
+        "btn": {
+            "update": "Update product",
+            "update-brand": "Update brand",
+            "cancel": "Cancel",
+            "confirm": "Confirm",
+            "clear": "Clear",
+            "delete": "Delete",
+            "save": "Save",
+            "submit": "Submit",
+            "apply-filter": "Apply Filteration",
+            "change-image": "Click to change image (Optional)",
+            "export": {
+                "label": "Export",
+                "title": "Export as excel file"
+            }
+        }
+    }
+}

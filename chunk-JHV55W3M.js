@@ -1,0 +1,1 @@
+import{Pb as o,Qb as a,jc as r,oa as n,rc as i}from"./chunk-NURSLYAJ.js";import"./chunk-EQDQRRRY.js";var c=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-rates"]],standalone:!0,features:[i],decls:2,vars:0,template:function(t,p){t&1&&(o(0,"p"),r(1,"rates works!"),a())}})}}return e})();export{c as RatesComponent};
