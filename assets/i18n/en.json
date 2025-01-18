@@ -159,6 +159,19 @@
         "add-sub-sub-category": "Add Sub Sub Category"
     },
     "form": {
+        "stepper": {
+            "next": "Next",
+            "back": "Back",
+            "required": "Data is required",
+            "done": "Done",
+            "done-msg": "Everything almost done!",
+            "submit": "Submit",
+            "product-data": {
+                "fill": "Fill out fields",
+                "category-following": "Categories and dependencies",
+                "img": "Product Images"
+            }
+        },
         "label": {
             "update": "Update Product"
         },
@@ -178,12 +191,37 @@
             "label": "Category",
             "placeholder": "Ex. Men"
         },
+        "sub-category": {
+            "label": "Sub category",
+            "placeholder": "Ex. Men"
+        },
+        "sub-category2": {
+            "label": "Sub sub category",
+            "placeholder": "Ex. Men"
+        },
+        "attr-ar": {
+            "label": "Attribute title in arabic",
+            "placeholder": "Ex. Color hex (#fff)"
+        },
+        "attr-en": {
+            "label": "Attribute title in english",
+            "placeholder": "Ex. Color hex (#fff)",
+            "value": "Attribute value"
+        },
         "qty": {
             "label": "Avaialable",
             "placeholder": "Ex. 100"
         },
         "description": {
             "label": "Description",
+            "placeholder": "Ex. Extra cheese stuffed"
+        },
+        "description-ar": {
+            "label": "Description in arabic",
+            "placeholder": "Ex. Extra cheese stuffed"
+        },
+        "description-en": {
+            "label": "Description in english",
             "placeholder": "Ex. Extra cheese stuffed"
         },
         "price": {
@@ -205,7 +243,7 @@
             "label": "Discount",
             "placeholder": "20"
         },
-        "brand": {
+        "a": {
             "label": "Brand name",
             "placeholder": "Enter brand name..."
         },
