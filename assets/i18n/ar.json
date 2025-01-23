@@ -16,7 +16,7 @@
         "client-name": "اسم العميل",
         "price": "اجمالي التكلفة",
         "address": "العنوان",
-        "by-store":"متوفر بمتجر الأسطورة",
+        "by-store": "متوفر بمتجر الأسطورة",
         "qty": "الكمية: ",
         "sale": "تخفيض"
     },
@@ -75,6 +75,8 @@
         "phone-placeholder": "أدخل رقم الهاتف...",
         "password-label": "كلمة المرور",
         "password-placeholder": "أدخل كلمة المرور...",
+        "repassword-label": "تأكيد كلمة المرور",
+        "repassword-placeholder": "أدخل تأكيد كلمة المرور...",
         "login": "تسجيل الدخول",
         "forgot-password-q": "نسيت كلمة المرور؟",
         "reset-password": "اعادة تعيين كلمة المرور",
@@ -110,7 +112,9 @@
         },
         "gender": {
             "label": "النوع",
-            "placeholder": "أدخل النوع الخاص بك 'ذكر' أو 'أنثي'..."
+            "placeholder": "أدخل النوع الخاص بك 'ذكر' أو 'أنثي'...",
+            "male": "ذكر",
+            "female": "أنثي"
         },
         "role": {
             "label": "الصلاحيات والأذونات"
@@ -214,16 +218,19 @@
         },
         "error": {
             "required": "هذه الخانة مطلوبة.",
-            "uploaded": "تم تحميل الصورة."
+            "uploaded": "تم تحميل الصورة.",
+            "password-mismatch": "تأكيد كلمة المرور غير مطابق",
+            "email": "أدخل بريد الكتروني صالح"
         },
         "btn": {
             "update": "تعديل المنتج",
             "update-brand": "تعديل",
+            "update-roles": "تعديل الصلاحيات",
             "cancel": "الغاء",
             "confirm": "تأكيد",
             "clear": "ازالة",
             "delete": "حذف",
-            "save": "Save",
+            "save": "حفظ",
             "submit": "تأكيد",
             "apply-filter": "تطبيق التصفية",
             "change-image": "أنقر لتغيير الصورة (اختياري)",
@@ -231,6 +238,23 @@
                 "label": "تصدير",
                 "title": "تصدير كملف excel"
             }
+        }
+    },
+    "clients": {
+        "block": "حظر",
+        "unblock": "الغاء حظر",
+        "update": "تعديل",
+        "account-activated": "تم التنشيط",
+        "user-info": "معلومات المستخدم",
+        "image": "الصورة"
+    },
+    "admins": {
+        "view-roles": "عرض الصلاحيات",
+        "no-roles":"لا يوجد صلاحيات",
+        "update": "تعديل",
+        "add-roles": "اضافة صلاحيات",
+        "new": {
+            "btn": "اضافة مسؤول جديد"
         }
     }
 }

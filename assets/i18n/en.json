@@ -75,6 +75,8 @@
         "phone-placeholder": "Enter phone number...",
         "password-label": "Password",
         "password-placeholder": "Enter your password...",
+        "repassword-label": "Password Confrim",
+        "repassword-placeholder": "Enter password conformation...",
         "login": "Login",
         "forgot-password-q": "Forgot password?",
         "reset-password": "Reset password",
@@ -110,7 +112,9 @@
         },
         "gender": {
             "label": "Gender",
-            "placeholder": "Enter your gender 'male' or 'female'..."
+            "placeholder": "Enter your gender 'male' or 'female'...",
+            "male": "Male",
+            "female": "female"
         },
         "role": {
             "label": "Roles"
@@ -243,7 +247,7 @@
             "label": "Discount",
             "placeholder": "20"
         },
-        "a": {
+        "brand": {
             "label": "Brand name",
             "placeholder": "Enter brand name..."
         },
@@ -252,10 +256,13 @@
         },
         "error": {
             "required": "This field is required.",
-            "uploaded": "Image file uploaded."
+            "uploaded": "Image file uploaded.",
+            "email": "Enter valid email",
+            "password-mismatch": "Password mismatch"
         },
         "btn": {
             "update": "Update product",
+            "update-roles":"Update Roles",
             "update-brand": "Update brand",
             "cancel": "Cancel",
             "confirm": "Confirm",
@@ -269,6 +276,23 @@
                 "label": "Export",
                 "title": "Export as excel file"
             }
+        }
+    },
+    "clients": {
+        "block": "Block",
+        "unblock": "Unblock",
+        "update": "Update",
+        "account-activated": "Account Activated",
+        "user-info":"User Info",
+        "image":"Image"
+    },
+    "admins": {
+        "view-roles":"View Roles",
+        "no-roles":"No roles found",
+        "update": "Update",
+        "add-roles": "Add Roles",
+        "new":{
+            "btn":"Add new admin"
         }
     }
 }
